@@ -8,7 +8,7 @@ El proyecto se centra en la creación de un traductor de texto de Inglés a Espa
 ## Estructura del Repositorio
 - `traductor.ipynb`: Jupyter Notebook donde se encuentra el programa implementado.
 - `requirements.txt`: Archivo que contiene todas las dependencias del entorno virtual de Python.
-- `pesos.zip`: Archivo comprimido que contiene los pesos resultantes del entrenamiento del traductor.
+- [`pesos.zip`](https://drive.google.com/file/d/1OhLZPR3lijWZCMfweABHwUEz6aVtri41/view?usp=sharing): Archivo comprimido que contiene los pesos resultantes del entrenamiento del traductor.
 
 ## Referencias
 - **Paper**: [Enlace al paper](https://arxiv.org/abs/2202.07765)
